@@ -2,3 +2,9 @@ body
 {
    background-color: aqua; 
 }
+p
+{
+    border: solid;
+    width: 100;
+    height: 200;
+}
